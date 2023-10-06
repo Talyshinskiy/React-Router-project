@@ -1,5 +1,7 @@
 # React Router project
 
+![App_svg](./src/assets/Запись%20экрана%202023-10-06%20в%2016.18.38.gif)
+
 https://react-router-project-eight.vercel.app/
 
 **Educational React Project with a Stack of Technologies**
